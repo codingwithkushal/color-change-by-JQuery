@@ -1,0 +1,35 @@
+
+h1{
+    font-size: 85px;
+    color: rgb(0, 0, 0);
+}
+p{
+    font-weight: bold;
+    background-color: #352e2e3b;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 20px;
+    display: inline-block;
+}
+/* .red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+} */
+
+/* CSS */
+.red { color: red; }
+.yellow { color: yellow; }
+.green { color: green; }
+.blue { color: blue; }
+.orange { color: orange; }
